@@ -96,8 +96,6 @@ Utilizamos as funcionalidades do adobe color para criar um melhor contraste e pr
 Implementamos recurso áudio visual no nosso produto tornando possível escutar a descrição nos cards dos filmes.
 (Atenção, o áudio estará disponivel de acordo com o pacote de voz instalado no seu dispositivo.)
 
-(inserir o gif do video aqui)
-
 ---
 ### Implementações para as próximas versões
 
