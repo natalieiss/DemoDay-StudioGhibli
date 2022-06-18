@@ -4,14 +4,13 @@
 
 <img src="https://cdn.discordapp.com/attachments/725539486951538750/955512798241251348/Desktop_-_Movies_page_1.png">
 
-
-
-
-
 ## Sumário
 - [Definição do Produto](#definição-do-produto-pencil2)
 - [Usuário](#usuário)
 - [Protótipo](#protótipo)
+- [Paleta de cores com contraste](#Paleta-de-cores)
+- [Recurso Áudio Visual](#Recurso-Áudio-Visual)
+- [Implementações para as próximas versões](#Implementações-para-as-)
 - [Como Utilizar?](#como-utilizar-gear)
 - [Tecnologias](#tecnologias-)
 - [Resultado Final](#resultado-final-)
@@ -91,6 +90,7 @@ Utilizamos as funcionalidades do adobe color para criar um melhor contraste e pr
 <img width=500px src="https://cdn.discordapp.com/attachments/933855982071734322/961676518466142269/AdobeColor-DemoDay_dalt.jpg" >
 <img width=500px src="https://cdn.discordapp.com/attachments/933855982071734322/961676518747168848/WhatsApp_Image_2022-04-05_at_20.56.31.jpeg" >
 
+---
 ### Recurso Áudio Visual
 
 Implementamos recurso áudio visual no nosso produto tornando possível escutar a descrição nos cards dos filmes.
@@ -99,12 +99,28 @@ Implementamos recurso áudio visual no nosso produto tornando possível escutar 
 (inserir o gif do video aqui)
 
 ---
+### Implementações para as próximas versões
 
+Recursos para pessoas disléxicas;
+Recursos para pessoas autistas;
+Suporte para leitura em linguagem de sinais;
+
+---
 ## Como Utilizar? :gear:
 
 Na pagina inicial temos algumas informacoes sobre o studio.
 
-Com o Click(Mobile ou Tablet) ou apenas passando o mouse por cima do menu lateral voce pode ter acesso ao restante do site e minhas redes de contanto.
+No menu à esquerda você encontrará a opção de filmes e selecionando-o habilitará a opção de linguagem português ou inglês, selecione as bandeiras no canto superior direito da aplicação web:
+
+<p align="center">
+  <img width="600" height="255" src="./src/assets/readme/demo1.gif"/>
+</p>
+
+No menu à esquerda você encontrará a opção de filmes e selecionando um card haverá a possibilidade de escolher a linguagem para utilizar a descrição áudio visual:
+
+<p align="center">
+  <img width="600" height="229" src="./src/assets/readme/demo2.gif"/>
+</p>
 
 ##### Pagina Movies
 
